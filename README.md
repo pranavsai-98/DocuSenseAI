@@ -1,4 +1,5 @@
 # DocuSenseAI
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/pranavsai-98/DocuSenseAI/blob/main/chatbot.gif))
 
 ## Overview
 DocuSenseAI is a cutting-edge chatbot designed to enhance document interaction through dynamic analysis and summarization. Utilizing Lang Chain, LLM, RAG techniques, FAISS, and parallel processing, it offers a real-time chat-based platform for efficient document retrieval and processing. This project aims to revolutionize how we interact with and understand documents, making information access faster and more intuitive.
